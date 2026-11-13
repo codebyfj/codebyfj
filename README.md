@@ -16,7 +16,7 @@ Website for a 24/7 towing and roadside company in Toronto. The brief: a stranded
 - Real job gallery and a GTA service area map
 - Admin panel: SEO editor, lead inbox, one-click publish
 
-`React` `Vite` `Node.js` `PostgreSQL` `Vercel` · [Live site](https://www.wynfordroadsideassistance.com) · code is private (client project)
+`React` `Vite` `Node.js` `PostgreSQL` `Vercel` · [Live site](https://www.wynfordroadsideassistance.com) · [Project repo](https://github.com/codebyfj/wynford-roadside-assistance) · code is private (client project)
 
 New projects get added here when they're done.
 
