@@ -25,4 +25,4 @@ New projects get added here when they're done.
 - Building agent-based tools with LLM APIs
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/codebyfj) · [YouTube](https://www.youtube.com/@codebyfj) · [Instagram](https://www.instagram.com/codebyfj) · [TikTok](https://www.tiktok.com/@codebyfj)
+[LinkedIn](https://www.linkedin.com/in/codebyfj) · [codebyfj.com](https://codebyfj.com) · [YouTube](https://www.youtube.com/@codebyfj) · [Instagram](https://www.instagram.com/codebyfj) · [TikTok](https://www.tiktok.com/@codebyfj)
