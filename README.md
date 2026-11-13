@@ -6,11 +6,17 @@
 BSIT student (5th semester) at the University of Sargodha, Pakistan.
 I build Android apps with Kotlin and Java, websites with React and Node.js, and small automation tools. I use AI coding tools and agent workflows daily, and I review and test what they produce before it ships.
 
-### Projects
+### Featured project: Wynford Roadside Assistance
+<a href="https://www.wynfordroadsideassistance.com"><img src="assets/wynford-preview.gif" alt="Wynford Roadside Assistance homepage, desktop and mobile" width="100%" /></a>
 
-| Project | What it is | Stack | Status |
-|---|---|---|---|
-| [Wynford Roadside Assistance](https://www.wynfordroadsideassistance.com) | Website for a 24/7 towing & roadside company in Toronto. Live Google reviews, a gallery of real jobs, and an admin panel where the owner edits SEO and publishes without touching code. | React · Vite · Node.js · PostgreSQL · Vercel | Live, client project |
+Website for a 24/7 towing and roadside company in Toronto. The brief: a stranded driver reaches them in one tap, and the owner runs the site without a developer.
+
+- Call / WhatsApp on every screen and a 3-step quote form
+- Live Google reviews from the Places API
+- Real job gallery and a GTA service area map
+- Admin panel: SEO editor, lead inbox, one-click publish
+
+`React` `Vite` `Node.js` `PostgreSQL` `Vercel` · [Live site](https://www.wynfordroadsideassistance.com) · code is private (client project)
 
 New projects get added here when they're done.
 
