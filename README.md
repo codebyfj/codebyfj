@@ -10,7 +10,7 @@ I build Android apps with Kotlin and Java, websites with React and Node.js, and 
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| [Wynford Roadside Assistance](https://wynford-roadside.vercel.app) | Website for a 24/7 towing & roadside company in Toronto. Live Google reviews, a gallery of real jobs, and an admin panel where the owner edits SEO and publishes without touching code. | React · Vite · Node.js · PostgreSQL · Vercel | Live, client project |
+| [Wynford Roadside Assistance](https://www.wynfordroadsideassistance.com) | Website for a 24/7 towing & roadside company in Toronto. Live Google reviews, a gallery of real jobs, and an admin panel where the owner edits SEO and publishes without touching code. | React · Vite · Node.js · PostgreSQL · Vercel | Live, client project |
 
 New projects get added here when they're done.
 
@@ -24,9 +24,5 @@ New projects get added here when they're done.
 - Jetpack Compose
 - Building agent-based tools with LLM APIs
 
-### Activity
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebyfj&bg_color=090B0F&color=EEF2F7&line=3B82F6&point=22D3EE&area=true&hide_border=true)
-
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/codebyfj) · [codebyfj.com](https://codebyfj.com) · [YouTube](https://www.youtube.com/@codebyfj) · [Instagram](https://www.instagram.com/codebyfj) · [TikTok](https://www.tiktok.com/@codebyfj)
+[LinkedIn](https://www.linkedin.com/in/codebyfj) · [YouTube](https://www.youtube.com/@codebyfj) · [Instagram](https://www.instagram.com/codebyfj) · [TikTok](https://www.tiktok.com/@codebyfj)
